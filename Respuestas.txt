@@ -1,0 +1,5 @@
+# Respuestas TP 2
+2-f) Cuando cambiamos de la rama Opcion_2 a la rama main, no se observan los cambios realizados en Opcion_2 son solo para esa rama.
+ Esto hasta que sea unida con la main.
+ Luego de hacer el merge en main se nota que el archivo .c que antes estaba en la rama opcion_2 ahor esta en la rama main
+
